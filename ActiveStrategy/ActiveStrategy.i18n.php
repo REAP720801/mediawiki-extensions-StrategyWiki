@@ -699,6 +699,14 @@ $messages['vo'] = array(
 	'nedits' => '{{PLURAL:$1|Redakam|Redakams}} $1',
 );
 
+/** Yiddish (ייִדיש)
+ * @author פוילישער
+ */
+$messages['yi'] = array(
+	'activestrategy' => 'אקטיווע סטראטעגיע',
+	'nedits' => '{{PLURAL:$1|רעדאַקטירונג|$1 רעדאַקטירונגען}}',
+);
+
 /** Simplified Chinese (‪中文(简体)‬)
  * @author Jding2010
  */
