@@ -314,6 +314,9 @@ $messages['io'] = array(
  * @author Beta16
  */
 $messages['it'] = array(
+	'activestrategy' => 'Strategia attiva',
+	'active-strategy-desc' => 'Mostra il numero di modifiche alle pagine di pianificazione strategica',
+	'active-strategy-intro' => "Numero di modifiche alle pagine della task force {{PLURAL:$1|nell'ultimo giorno|negli ultimi $1 giorni}}.",
 	'nedits' => '$1 {{PLURAL:$1|contributo|contributi}}',
 );
 
