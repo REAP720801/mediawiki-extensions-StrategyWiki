@@ -323,11 +323,12 @@ $messages['it'] = array(
 /** Japanese (日本語)
  * @author Aotake
  * @author Fryed-peach
+ * @author Shirayuki
  * @author 青子守歌
  */
 $messages['ja'] = array(
 	'activestrategy' => '活動中の戦略',
-	'active-strategy-desc' => '戦略計画ページの編集回数を表示',
+	'active-strategy-desc' => '戦略計画ページの編集回数を表示する',
 	'active-strategy-intro' => '最近$1日間に特別チームのページに加えられた編集回数',
 	'nedits' => '$1回の編集',
 );
