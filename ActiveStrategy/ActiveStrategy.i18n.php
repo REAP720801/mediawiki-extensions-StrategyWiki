@@ -50,7 +50,7 @@ $messages['be-tarask'] = array(
 	'nedits' => '$1 {{PLURAL:$1|рэдагаваньне|рэдагаваньні|рэдагаваньняў}}',
 );
 
-/** Bulgarian (Български)
+/** Bulgarian (български)
  * @author DCLXVI
  */
 $messages['bg'] = array(
@@ -65,7 +65,7 @@ $messages['bn'] = array(
 	'nedits' => '$1 {{PLURAL:$1|সম্পাদনা|সম্পাদনা}}',
 );
 
-/** Breton (Brezhoneg)
+/** Breton (brezhoneg)
  * @author Fulup
  * @author Gwendal
  * @author Y-M D
@@ -77,7 +77,7 @@ $messages['br'] = array(
 	'nedits' => '$1 {{PLURAL:$1|kemm|kemm}}',
 );
 
-/** Bosnian (Bosanski)
+/** Bosnian (bosanski)
  * @author CERminator
  */
 $messages['bs'] = array(
@@ -87,7 +87,7 @@ $messages['bs'] = array(
 	'nedits' => '$1 {{PLURAL:$1|izmjena|izmjene}}',
 );
 
-/** Czech (Česky)
+/** Czech (česky)
  * @author Danny B.
  * @author Mormegil
  */
@@ -98,7 +98,7 @@ $messages['cs'] = array(
 	'nedits' => '$1 {{PLURAL:$1|editace|editace|editací}}',
 );
 
-/** Danish (Dansk)
+/** Danish (dansk)
  * @author Peter Alberti
  */
 $messages['da'] = array(
@@ -156,7 +156,7 @@ $messages['eo'] = array(
 	'nedits' => '$1 {{PLURAL:$1|redakto|redaktoj}}',
 );
 
-/** Spanish (Español)
+/** Spanish (español)
  * @author Ascánder
  * @author Crazymadlover
  * @author Diego Grez
@@ -181,7 +181,7 @@ $messages['fa'] = array(
 	'nedits' => '$1 {{PLURAL:$1|ویرایش|ویرایش}}',
 );
 
-/** Finnish (Suomi)
+/** Finnish (suomi)
  * @author Olli
  */
 $messages['fi'] = array(
@@ -191,7 +191,7 @@ $messages['fi'] = array(
 	'nedits' => '$1 {{PLURAL:$1|muokkaus|muokkausta}}',
 );
 
-/** French (Français)
+/** French (français)
  * @author IAlex
  * @author Jean-Frédéric
  * @author Peter17
@@ -203,7 +203,7 @@ $messages['fr'] = array(
 	'nedits' => '$1 {{PLURAL:$1|modification|modifications}}',
 );
 
-/** Franco-Provençal (Arpetan)
+/** Franco-Provençal (arpetan)
  * @author ChrisPtDe
  */
 $messages['frp'] = array(
@@ -251,7 +251,7 @@ $messages['hi'] = array(
 	'activestrategy' => 'सक्षम रणनीति',
 );
 
-/** Croatian (Hrvatski)
+/** Croatian (hrvatski)
  * @author SpeedyGonsales
  */
 $messages['hr'] = array(
@@ -271,7 +271,7 @@ $messages['hsb'] = array(
 	'nedits' => '$1 {{PLURAL:$1|změna|změnje|změny|změnow}}',
 );
 
-/** Hungarian (Magyar)
+/** Hungarian (magyar)
  * @author Dani
  * @author Glanthor Reviol
  * @author Tgr
@@ -283,7 +283,7 @@ $messages['hu'] = array(
 	'nedits' => '{{PLURAL:$1|egy|$1}} szerkesztés',
 );
 
-/** Interlingua (Interlingua)
+/** Interlingua (interlingua)
  * @author McDutchie
  */
 $messages['ia'] = array(
@@ -310,7 +310,7 @@ $messages['io'] = array(
 	'nedits' => '$1 {{PLURAL:$1|redakto|redakti}}',
 );
 
-/** Italian (Italiano)
+/** Italian (italiano)
  * @author Beta16
  */
 $messages['it'] = array(
@@ -384,14 +384,14 @@ $messages['li'] = array(
 	'nedits' => '$1 {{PLURAL:$1|bewèrking|bewèrkinge}}',
 );
 
-/** Lithuanian (Lietuvių)
+/** Lithuanian (lietuvių)
  * @author Eitvys200
  */
 $messages['lt'] = array(
 	'activestrategy' => 'Aktyvi strategija',
 );
 
-/** Macedonian (Македонски)
+/** Macedonian (македонски)
  * @author Bjankuloski06
  */
 $messages['mk'] = array(
@@ -442,7 +442,7 @@ $messages['nl'] = array(
 	'nedits' => '$1 {{PLURAL:$1|bewerking|bewerkingen}}',
 );
 
-/** Occitan (Occitan)
+/** Occitan (occitan)
  * @author Cedric31
  */
 $messages['oc'] = array(
@@ -464,7 +464,7 @@ $messages['pdc'] = array(
 	'nedits' => '$1 {{PLURAL:$1|Ennering|Enneringe}}',
 );
 
-/** Polish (Polski)
+/** Polish (polski)
  * @author Sp5uhe
  */
 $messages['pl'] = array(
@@ -492,7 +492,7 @@ $messages['ps'] = array(
 	'nedits' => '$1 {{PLURAL:$1|سمون|سمونونه}}',
 );
 
-/** Portuguese (Português)
+/** Portuguese (português)
  * @author Hamilton Abreu
  * @author Lijealso
  */
@@ -503,7 +503,7 @@ $messages['pt'] = array(
 	'nedits' => '$1 {{PLURAL:$1|edição|edições}}',
 );
 
-/** Brazilian Portuguese (Português do Brasil)
+/** Brazilian Portuguese (português do Brasil)
  * @author Giro720
  */
 $messages['pt-br'] = array(
@@ -513,7 +513,7 @@ $messages['pt-br'] = array(
 	'nedits' => '$1 {{PLURAL:$1|edição|edições}}',
 );
 
-/** Romanian (Română)
+/** Romanian (română)
  * @author AdiJapan
  * @author Stelistcristi
  */
@@ -522,7 +522,7 @@ $messages['ro'] = array(
 	'nedits' => '$1 {{PLURAL:$1|modificare|modificări}}',
 );
 
-/** Tarandíne (Tarandíne)
+/** tarandíne (tarandíne)
  * @author Joetaras
  * @author Reder
  */
@@ -531,7 +531,7 @@ $messages['roa-tara'] = array(
 	'nedits' => '$1 {{PLURAL:$1|cangiamende|cangiaminde}}',
 );
 
-/** Russian (Русский)
+/** Russian (русский)
  * @author Eleferen
  * @author Александр Сигачёв
  */
@@ -552,7 +552,7 @@ $messages['rue'] = array(
 	'nedits' => '$1 {{PLURAL:$1|едітованя|едітованя|едітовань}}',
 );
 
-/** Sakha (Саха тыла)
+/** Sakha (саха тыла)
  * @author HalanTul
  */
 $messages['sah'] = array(
@@ -570,7 +570,7 @@ $messages['si'] = array(
 	'nedits' => '{{PLURAL:$1|සංස්කරණ|සංස්කරණ}} $1 ක්',
 );
 
-/** Slovak (Slovenčina)
+/** Slovak (slovenčina)
  * @author Helix84
  * @author Jkjk
  */
@@ -581,7 +581,7 @@ $messages['sk'] = array(
 	'nedits' => '$1 {{PLURAL:$1|úprava|úpravy|úprav}}',
 );
 
-/** Slovenian (Slovenščina)
+/** Slovenian (slovenščina)
  * @author Dbc334
  */
 $messages['sl'] = array(
@@ -591,7 +591,7 @@ $messages['sl'] = array(
 	'nedits' => '$1 {{PLURAL:$1|urejanje|urejanji|urejanja|urejanj}}',
 );
 
-/** Serbian (Cyrillic script) (‪Српски (ћирилица)‬)
+/** Serbian (Cyrillic script) (‪српски (ћирилица)‬)
  * @author Rancher
  */
 $messages['sr-ec'] = array(
@@ -601,7 +601,7 @@ $messages['sr-ec'] = array(
 	'nedits' => '$1 {{PLURAL:$1|измена|измене|измена}}',
 );
 
-/** Serbian (Latin script) (‪Srpski (latinica)‬) */
+/** Serbian (Latin script) (‪srpski (latinica)‬) */
 $messages['sr-el'] = array(
 	'activestrategy' => 'Aktivna strategija',
 	'active-strategy-desc' => 'Prikazuje broj izmena za strateško planirane stranice',
@@ -609,7 +609,7 @@ $messages['sr-el'] = array(
 	'nedits' => '$1 {{PLURAL:$1|izmena|izmene|izmena}}',
 );
 
-/** Swedish (Svenska)
+/** Swedish (svenska)
  * @author Boivie
  * @author Cohan
  * @author Dafer45
@@ -664,7 +664,7 @@ $messages['tr'] = array(
 	'nedits' => '$1 {{PLURAL:$1|değişiklik|değişiklik}}',
 );
 
-/** Ukrainian (Українська)
+/** Ukrainian (українська)
  * @author Ahonc
  * @author Alex Khimich
  * @author Тест
@@ -676,7 +676,7 @@ $messages['uk'] = array(
 	'nedits' => '$1 {{PLURAL:$1|редагування|редагування|редагувань}}',
 );
 
-/** Vèneto (Vèneto)
+/** vèneto (vèneto)
  * @author Candalua
  */
 $messages['vec'] = array(
@@ -711,7 +711,7 @@ $messages['yi'] = array(
 	'nedits' => '{{PLURAL:$1|רעדאַקטירונג|$1 רעדאַקטירונגען}}',
 );
 
-/** Simplified Chinese (‪中文(简体)‬)
+/** Simplified Chinese (‪中文（简体）‬)
  * @author Jding2010
  */
 $messages['zh-hans'] = array(
@@ -721,7 +721,7 @@ $messages['zh-hans'] = array(
 	'nedits' => '$1次{{PLURAL:$1|编辑|编辑}}',
 );
 
-/** Traditional Chinese (‪中文(繁體)‬)
+/** Traditional Chinese (‪中文（繁體）‬)
  * @author Anakmalaysia
  * @author Horacewai2
  * @author Mark85296341
