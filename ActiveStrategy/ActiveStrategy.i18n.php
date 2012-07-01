@@ -38,7 +38,7 @@ $messages['ar'] = array(
 	'nedits' => '{{PLURAL:$1|لا تعديلات|تعديل واحد|تعديلان|$1 تعديلات|$1 تعديلًا|$1 تعديل}}',
 );
 
-/** Belarusian (Taraškievica orthography) (‪Беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
  * @author EugeneZelenko
  * @author Jim-by
  * @author Wizardist
@@ -126,7 +126,7 @@ $messages['diq'] = array(
 	'nedits' => '$1 {{PLURAL:$1|vurnayîş|vurnayîşî}}',
 );
 
-/** Lower Sorbian (Dolnoserbski)
+/** Lower Sorbian (dolnoserbski)
  * @author Michawiki
  */
 $messages['dsb'] = array(
@@ -213,7 +213,7 @@ $messages['frp'] = array(
 	'nedits' => '$1 changement{{PLURAL:$1||s}}',
 );
 
-/** Galician (Galego)
+/** Galician (galego)
  * @author Toliño
  */
 $messages['gl'] = array(
@@ -261,7 +261,7 @@ $messages['hr'] = array(
 	'nedits' => '$1 {{PLURAL:$1|uređivanje|uređivanja|uređivanja}}',
 );
 
-/** Upper Sorbian (Hornjoserbsce)
+/** Upper Sorbian (hornjoserbsce)
  * @author Michawiki
  */
 $messages['hsb'] = array(
@@ -542,7 +542,7 @@ $messages['ru'] = array(
 	'nedits' => '$1 {{PLURAL:$1|правка|правки|правок}}',
 );
 
-/** Rusyn (Русиньскый)
+/** Rusyn (русиньскый)
  * @author Gazeb
  */
 $messages['rue'] = array(
