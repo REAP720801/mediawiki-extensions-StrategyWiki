@@ -346,12 +346,13 @@ $messages['ka'] = array(
 
 /** Korean (한국어)
  * @author Kwj2772
+ * @author 아라
  */
 $messages['ko'] = array(
 	'activestrategy' => '활성화된 전략 기획',
 	'active-strategy-desc' => '전략 기획 문서에 대한 편집 수를 표시',
 	'active-strategy-intro' => '최근 $1일동안의 태스크 포스 문서에 대한 편집 횟수입니다.',
-	'nedits' => '편집 $1개',
+	'nedits' => '편집 $1회',
 );
 
 /** Colognian (Ripoarisch)
