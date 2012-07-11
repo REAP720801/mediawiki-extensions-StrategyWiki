@@ -422,7 +422,7 @@ $messages['ms'] = array(
 	'nedits' => '$1 suntingan',
 );
 
-/** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
+/** Norwegian Bokmål (‪norsk (bokmål)‬)
  * @author Laaknor
  * @author Nghtwlkr
  */
