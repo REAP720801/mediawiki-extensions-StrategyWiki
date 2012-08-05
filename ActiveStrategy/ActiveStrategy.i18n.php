@@ -117,11 +117,12 @@ $messages['de'] = array(
 );
 
 /** Zazaki (Zazaki)
+ * @author Erdemaslancan
  * @author Xoser
  */
 $messages['diq'] = array(
-	'activestrategy' => 'Stratejiyê Aktifi',
-	'active-strategy-desc' => 'Mi ra amaranê vurnayisan ser planê strateji bimocne',
+	'activestrategy' => 'Strateciyê ke aktivi',
+	'active-strategy-desc' => 'Amariya vurnayışanê pela planan dê strateci bimocne',
 	'active-strategy-intro' => 'Amaranê vurnayisan ke ser pelan {{PLURAL:$1|$1 day|$1 days}} peniyi de.',
 	'nedits' => '$1 {{PLURAL:$1|vurnayîş|vurnayîşî}}',
 );
