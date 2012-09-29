@@ -2,6 +2,7 @@
 
 class ActiveStrategy {
 	static function getTaskForces( $limit ) {
+		wfProfileIn( __METHOD__ );
 		$dbr = wfGetDB( DB_SLAVE );
 
 		$options = array();
@@ -43,10 +44,14 @@ class ActiveStrategy {
 					),
 			) );
 
+		wfProfileOut( __METHOD__ );
+
 		return $res;
 	}
 
 	static function getProposals() {
+		wfProfileIn( __METHOD__ );
+
 		$dbr = wfGetDB( DB_SLAVE );
 
 		$res = $dbr->select(
@@ -73,6 +78,8 @@ class ActiveStrategy {
 						),
 					),
 			) );
+
+		wfProfileOut( __METHOD__ );
 
 		return $res;
 	}
@@ -180,6 +187,8 @@ class ActiveStrategy {
 	static function getOutput( $args ) {
 		global $wgUser, $wgActiveStrategyPeriod;
 
+		wfProfileIn( __METHOD__ );
+
 		$html = '';
 		$db = wfGetDB( DB_MASTER );
 		$sk = $wgUser->getSkin();
@@ -208,7 +217,7 @@ class ActiveStrategy {
 		$conds = array();
 		$joinConds = array();
 		$options = array( 'GROUP BY' => 'keyfield', 'ORDER BY' => 'value DESC' );
-		$lookup = NULL;
+		$lookup = null;
 
 		if ( $limit ) {
 			$options['LIMIT'] = intval($limit);
@@ -289,6 +298,8 @@ class ActiveStrategy {
 		$html = Xml::tags( 'div', array( 'class' => 'mw-activestrategy-output' ),
 				$html );
 
+		wfProfileOut( __METHOD__ );
+
 		return $html;
 	}
 
@@ -343,7 +354,7 @@ class ActiveStrategy {
 		return $count;
 	}
 
-	// FIXME THIS IS TOTALLY AWFUL
+	// @todo FIXME THIS IS TOTALLY AWFUL
 	static function parseMemberList( $text ) {
 		$regex = "/'''Members'''.*<!--- begin --->(.*)?<!--- end --->/s";
 		$matches = array();
