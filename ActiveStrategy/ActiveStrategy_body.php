@@ -84,12 +84,12 @@ class ActiveStrategy {
 		return $res;
 	}
 
-	static function formatResult( $skin, $taskForce, $number, $sort, $type ) {
-		global $wgContLang, $wgLang, $wgActiveStrategyColors;
+	static function formatResult( $taskForce, $number, $sort, $type = '' ) {
+		global $wgContLang, $wgActiveStrategyColors;
 
 		if ( ! $taskForce ) {
 			// Fail.
-			return;
+			return '';
 		}
 
 		$title = Title::newFromText( $taskForce );
@@ -100,7 +100,7 @@ class ActiveStrategy {
 			$title = Title::newFromText( $text );
 			$text = $title->getText();
 		}
-		$pageLink = $skin->linkKnown( $title, $text );
+		$pageLink = Linker::linkKnown( $title, $text );
 		$colors = null;
 		$color = null;
 		$style = '';
@@ -126,7 +126,8 @@ class ActiveStrategy {
 		}
 
 		if ( $sort == 'members' ) {
-			$pageLink .= ' ('.wfMsg( 'nmembers', $number ).')';
+			// @todo FIXME: hard coded parentheses.
+			$pageLink .= ' (' . wfMessage( 'nmembers', $number )->text() . ')';
 		}
 
 		$pageLink .= " <!-- $number -->";
@@ -137,7 +138,7 @@ class ActiveStrategy {
 			$item = $pageLink;
 		}
 
-		$item .= "<br/>";
+		$item .= "<br />";
 
 		return $item;
 	}
@@ -185,13 +186,12 @@ class ActiveStrategy {
 	}
 
 	static function getOutput( $args ) {
-		global $wgUser, $wgActiveStrategyPeriod;
+		global $wgActiveStrategyPeriod;
 
 		wfProfileIn( __METHOD__ );
 
 		$html = '';
 		$db = wfGetDB( DB_MASTER );
-		$sk = $wgUser->getSkin();
 		$limit = null;
 
 		if ( empty( $args['type'] ) ) {
@@ -291,7 +291,7 @@ class ActiveStrategy {
 
 		foreach( $count as $taskForce => $number ) {
 			if ( $number > 0 ) {
-				$html .= self::formatResult( $sk, $taskForce, $number, $sortField, $args['type'] );
+				$html .= self::formatResult( $taskForce, $number, $sortField, $args['type'] );
 			}
 		}
 
@@ -304,11 +304,8 @@ class ActiveStrategy {
 	}
 
 	static function handleSortByMembers( $taskForces ) {
-		global $wgUser;
-
 		$memberCount = array();
 		$output = '';
-		$sk = $wgUser->getSkin();
 
 		foreach( $taskForces as $row ) {
 			$title = Title::makeTitle( $row->page_namespace, $row->page_title );
@@ -321,7 +318,7 @@ class ActiveStrategy {
 
 		foreach( $memberCount as $name => $count ) {
 			if ( $count > 0 ) {
-				$output .= self::formatResult( $sk, $name, $count, 'members' );
+				$output .= self::formatResult( $name, $count, 'members' );
 			}
 		}
 
@@ -341,7 +338,7 @@ class ActiveStrategy {
 			return $cacheVal;
 		}
 
-		$article = new Article( Title::newFromText( $taskForce ) );
+		$article = WikiPage::factory( Title::newFromText( $taskForce ) );
 
 		$dbr = wfGetDB( DB_SLAVE );
 

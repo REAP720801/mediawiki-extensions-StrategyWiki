@@ -9,7 +9,7 @@ $wgExtensionCredits['specialpage'][] = array(
 	'descriptionmsg' => 'active-strategy-desc',
 );
 
-$dir = dirname( __FILE__ ) . '/';
+$dir = __DIR__ . '/';
 
 $wgHooks['ParserFirstCallInit'][] = 'ActiveStrategyPF::setup';
 
