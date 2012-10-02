@@ -38,7 +38,7 @@ $messages['ar'] = array(
 	'nedits' => '{{PLURAL:$1|لا تعديلات|تعديل واحد|تعديلان|$1 تعديلات|$1 تعديلًا|$1 تعديل}}',
 );
 
-/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (беларуская (тарашкевіца)‎)
  * @author EugeneZelenko
  * @author Jim-by
  * @author Wizardist
@@ -423,7 +423,7 @@ $messages['ms'] = array(
 	'nedits' => '$1 suntingan',
 );
 
-/** Norwegian Bokmål (‪norsk (bokmål)‬)
+/** Norwegian Bokmål (norsk (bokmål)‎)
  * @author Laaknor
  * @author Nghtwlkr
  */
@@ -593,7 +593,7 @@ $messages['sl'] = array(
 	'nedits' => '$1 {{PLURAL:$1|urejanje|urejanji|urejanja|urejanj}}',
 );
 
-/** Serbian (Cyrillic script) (‪српски (ћирилица)‬)
+/** Serbian (Cyrillic script) (српски (ћирилица)‎)
  * @author Rancher
  */
 $messages['sr-ec'] = array(
@@ -603,7 +603,7 @@ $messages['sr-ec'] = array(
 	'nedits' => '$1 {{PLURAL:$1|измена|измене|измена}}',
 );
 
-/** Serbian (Latin script) (‪srpski (latinica)‬) */
+/** Serbian (Latin script) (srpski (latinica)‎) */
 $messages['sr-el'] = array(
 	'activestrategy' => 'Aktivna strategija',
 	'active-strategy-desc' => 'Prikazuje broj izmena za strateško planirane stranice',
@@ -713,7 +713,7 @@ $messages['yi'] = array(
 	'nedits' => '{{PLURAL:$1|רעדאַקטירונג|$1 רעדאַקטירונגען}}',
 );
 
-/** Simplified Chinese (‪中文（简体）‬)
+/** Simplified Chinese (中文（简体）‎)
  * @author Jding2010
  */
 $messages['zh-hans'] = array(
@@ -723,7 +723,7 @@ $messages['zh-hans'] = array(
 	'nedits' => '$1次{{PLURAL:$1|编辑|编辑}}',
 );
 
-/** Traditional Chinese (‪中文（繁體）‬)
+/** Traditional Chinese (中文（繁體）‎)
  * @author Anakmalaysia
  * @author Horacewai2
  * @author Mark85296341
