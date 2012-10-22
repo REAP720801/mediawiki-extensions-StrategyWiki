@@ -1,6 +1,7 @@
 <?php
 
 $messages = array();
+
 $messages['en'] = array(
 	'activestrategy' => 'Active strategy',
 	'active-strategy-desc' => 'Shows number of edits to strategic planning pages',
@@ -448,7 +449,7 @@ $messages['nl'] = array(
  * @author Cedric31
  */
 $messages['oc'] = array(
-	'activestrategy' => 'Gropes de trabalh actius',
+	'activestrategy' => 'Gropes de trabalh actius', # Fuzzy
 	'active-strategy-intro' => 'Nombre de modificacions de las paginas del grop de trabalh al cors {{PLURAL:$1|del darrièr jorn|dels $1 darrièrs jorns}}.',
 );
 
@@ -603,7 +604,8 @@ $messages['sr-ec'] = array(
 	'nedits' => '$1 {{PLURAL:$1|измена|измене|измена}}',
 );
 
-/** Serbian (Latin script) (srpski (latinica)‎) */
+/** Serbian (Latin script) (srpski (latinica)‎)
+ */
 $messages['sr-el'] = array(
 	'activestrategy' => 'Aktivna strategija',
 	'active-strategy-desc' => 'Prikazuje broj izmena za strateško planirane stranice',
@@ -734,4 +736,3 @@ $messages['zh-hant'] = array(
 	'active-strategy-intro' => '此頁面編輯數 (在過去 {{PLURAL:$1|$1 天|$1 天}})',
 	'nedits' => '$1 {{PLURAL:$1|編輯|次編輯}}',
 );
-
