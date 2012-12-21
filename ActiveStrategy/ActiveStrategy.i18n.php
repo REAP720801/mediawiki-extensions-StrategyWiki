@@ -729,10 +729,11 @@ $messages['zh-hans'] = array(
  * @author Anakmalaysia
  * @author Horacewai2
  * @author Mark85296341
+ * @author Simon Shek
  */
 $messages['zh-hant'] = array(
 	'activestrategy' => '已啟動的戰略',
 	'active-strategy-desc' => '顯示戰略計劃頁面的編輯次數',
 	'active-strategy-intro' => '此頁面編輯數 (在過去 {{PLURAL:$1|$1 天|$1 天}})',
-	'nedits' => '$1 {{PLURAL:$1|編輯|次編輯}}',
+	'nedits' => '$1 {{PLURAL:$1|次編輯|次編輯}}',
 );
