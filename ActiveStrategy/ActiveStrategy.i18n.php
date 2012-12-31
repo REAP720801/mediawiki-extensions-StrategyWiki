@@ -668,6 +668,13 @@ $messages['tr'] = array(
 	'nedits' => '$1 {{PLURAL:$1|değişiklik|değişiklik}}',
 );
 
+/** Uyghur (Arabic script) (ئۇيغۇرچە)
+ * @author Sahran
+ */
+$messages['ug-arab'] = array(
+	'nedits' => '$1 {{PLURAL:$1|قېتىم|قېتىم}} تەھرىرلەنگەن', # Fuzzy
+);
+
 /** Ukrainian (українська)
  * @author Ahonc
  * @author Alex Khimich
