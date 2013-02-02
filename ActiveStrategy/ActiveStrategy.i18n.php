@@ -39,6 +39,16 @@ $messages['ar'] = array(
 	'nedits' => '{{PLURAL:$1|لا تعديلات|تعديل واحد|تعديلان|$1 تعديلات|$1 تعديلًا|$1 تعديل}}',
 );
 
+/** Asturian (asturianu)
+ * @author Xuacu
+ */
+$messages['ast'] = array(
+	'activestrategy' => 'Estratexa activa',
+	'active-strategy-desc' => "Amuesa'l númberu de ediciones nes páxines de la planificación estratéxica",
+	'active-strategy-intro' => "Númberu d'ediciones nes páxines del grupu de trabayu nos últimos {{PLURAL:$1|$1 día|$1 díes}}.",
+	'nedits' => '$1 {{PLURAL:$1|edición|ediciones}}',
+);
+
 /** Belarusian (Taraškievica orthography) (беларуская (тарашкевіца)‎)
  * @author EugeneZelenko
  * @author Jim-by
