@@ -98,6 +98,13 @@ $messages['bs'] = array(
 	'nedits' => '$1 {{PLURAL:$1|izmjena|izmjene}}',
 );
 
+/** Catalan (català)
+ * @author Pitort
+ */
+$messages['ca'] = array(
+	'nedits' => '$1 {{PLURAL:$1|modificació|modificacions}}',
+);
+
 /** Czech (česky)
  * @author Danny B.
  * @author Mormegil
