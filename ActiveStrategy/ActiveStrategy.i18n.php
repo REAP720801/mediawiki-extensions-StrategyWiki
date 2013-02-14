@@ -548,6 +548,8 @@ $messages['ro'] = array(
  */
 $messages['roa-tara'] = array(
 	'activestrategy' => 'Strateggie attive',
+	'active-strategy-desc' => "Face vedè le numere de le cangiaminde jndr'à le pàggene strategeche de pianificazione",
+	'active-strategy-intro' => "Numere de le cangiaminde d'a squadre pe le pàggene jndr'à l'urtme {{PLURAL:$1|$1 sciurne|}}.",
 	'nedits' => '$1 {{PLURAL:$1|cangiamende|cangiaminde}}',
 );
 
