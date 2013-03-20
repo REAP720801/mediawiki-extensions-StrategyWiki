@@ -10,10 +10,15 @@ $messages['en'] = array(
 );
 
 /** Message documentation (Message documentation)
+ * @author Shirayuki
  * @author Umherirrender
  */
 $messages['qqq'] = array(
 	'active-strategy-desc' => '{{desc}}',
+	'active-strategy-intro' => 'Unused at this time. Parameters:
+* $1 - number of days',
+	'nedits' => 'Unused at this time. Parameters:
+* $1 - number of edits',
 );
 
 /** Afrikaans (Afrikaans)
