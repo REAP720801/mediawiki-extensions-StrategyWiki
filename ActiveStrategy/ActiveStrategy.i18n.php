@@ -446,7 +446,7 @@ $messages['ms'] = array(
 	'nedits' => '$1 suntingan',
 );
 
-/** Norwegian Bokmål (norsk (bokmål)‎)
+/** Norwegian Bokmål (norsk bokmål)
  * @author Laaknor
  * @author Nghtwlkr
  */
@@ -475,7 +475,7 @@ $messages['oc'] = array(
 	'active-strategy-intro' => 'Nombre de modificacions de las paginas del grop de trabalh al cors {{PLURAL:$1|del darrièr jorn|dels $1 darrièrs jorns}}.',
 );
 
-/** Oriya (ଓଡ଼ିଆ)
+/** Oriya (ଓଡ଼ିଆ)
  * @author Ansumang
  */
 $messages['or'] = array(
