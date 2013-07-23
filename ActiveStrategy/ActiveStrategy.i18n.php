@@ -520,9 +520,10 @@ $messages['ps'] = array(
 /** Portuguese (português)
  * @author Hamilton Abreu
  * @author Lijealso
+ * @author Luckas
  */
 $messages['pt'] = array(
-	'activestrategy' => 'Estratégia activa',
+	'activestrategy' => 'Estratégia ativa',
 	'active-strategy-desc' => 'Mostra o número de edições das páginas de planeamento estratégico',
 	'active-strategy-intro' => 'Número de edições às páginas dos grupos de trabalho {{PLURAL:$1|no último dia|nos últimos $1 dias}}.',
 	'nedits' => '$1 {{PLURAL:$1|edição|edições}}',
