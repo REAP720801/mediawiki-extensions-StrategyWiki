@@ -14,7 +14,7 @@ $messages['en'] = array(
  * @author Umherirrender
  */
 $messages['qqq'] = array(
-	'active-strategy-desc' => '{{desc}}',
+	'active-strategy-desc' => '{{desc|name=Active Strategy|url=http://www.mediawiki.org/wiki/Extension:ActiveStrategy}}',
 	'active-strategy-intro' => 'Unused at this time. Parameters:
 * $1 - number of days',
 	'nedits' => 'Unused at this time. Parameters:
