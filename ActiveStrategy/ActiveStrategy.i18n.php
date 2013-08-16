@@ -471,7 +471,7 @@ $messages['nl'] = array(
  * @author Cedric31
  */
 $messages['oc'] = array(
-	'activestrategy' => 'Gropes de trabalh actius', # Fuzzy
+	'activestrategy' => 'Estrategia activa',
 	'active-strategy-intro' => 'Nombre de modificacions de las paginas del grop de trabalh al cors {{PLURAL:$1|del darrièr jorn|dels $1 darrièrs jorns}}.',
 );
 
