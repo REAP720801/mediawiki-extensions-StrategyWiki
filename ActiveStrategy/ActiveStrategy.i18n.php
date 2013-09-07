@@ -472,7 +472,9 @@ $messages['nl'] = array(
  */
 $messages['oc'] = array(
 	'activestrategy' => 'Estrategia activa',
+	'active-strategy-desc' => 'Aficha lo nombre de modificacions aportadas a las paginas de planificacion estrategica',
 	'active-strategy-intro' => 'Nombre de modificacions de las paginas del grop de trabalh al cors {{PLURAL:$1|del darrièr jorn|dels $1 darrièrs jorns}}.',
+	'nedits' => 'revocar $1 {{PLURAL:$1|modificacion|modificacions}}',
 );
 
 /** Oriya (ଓଡ଼ିଆ)
