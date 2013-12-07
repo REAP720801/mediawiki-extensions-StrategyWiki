@@ -110,7 +110,7 @@ $messages['ca'] = array(
 	'nedits' => '$1 {{PLURAL:$1|modificació|modificacions}}',
 );
 
-/** Czech (česky)
+/** Czech (čeština)
  * @author Danny B.
  * @author Mormegil
  */
