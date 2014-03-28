@@ -1,0 +1,11 @@
+{
+    "@metadata": {
+        "authors": [
+            "Candalua"
+        ]
+    },
+    "activestrategy": "Strategia ativa",
+    "active-strategy-desc": "Mostra el numaro de modifiche de le pagine de pianificassion strategica",
+    "active-strategy-intro": "Numaro de modifiche de le pagine de la task force {{PLURAL:$1|ne l'ultimo giorno|nei ultimi $1 giorni}}.",
+    "nedits": "$1 {{PLURAL:$1|contributo|contributi}}"
+}

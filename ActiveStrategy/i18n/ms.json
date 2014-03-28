@@ -1,0 +1,11 @@
+{
+    "@metadata": {
+        "authors": [
+            "Anakmalaysia"
+        ]
+    },
+    "activestrategy": "Strategi aktif",
+    "active-strategy-desc": "Menunjukkan bilangan suntingan pada laman-laman perancangan strategik",
+    "active-strategy-intro": "Bilangan suntingan pada laman pasukan petugas pada $1 hari lalu:",
+    "nedits": "$1 suntingan"
+}

@@ -1,0 +1,13 @@
+{
+    "@metadata": {
+        "authors": [
+            "Boivie",
+            "Cohan",
+            "Dafer45"
+        ]
+    },
+    "activestrategy": "Aktiv strategi",
+    "active-strategy-desc": "Visar antal redigeringar på arbetsgruppsidor",
+    "active-strategy-intro": "Antal redigeringar av arbetsgruppsidor under senaste ((PLURALIS: $1 | $1 dagen | $1 dagarna)).",
+    "nedits": "$1 {{PLURAL:$1|redigering|redigeringar}}"
+}

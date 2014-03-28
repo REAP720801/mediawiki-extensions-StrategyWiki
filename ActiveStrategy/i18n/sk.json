@@ -1,0 +1,12 @@
+{
+    "@metadata": {
+        "authors": [
+            "Helix84",
+            "Jkjk"
+        ]
+    },
+    "activestrategy": "Aktívná stratégia",
+    "active-strategy-desc": "Zobrazuje počet úprav na strategické plánovanie stránky",
+    "active-strategy-intro": "Počet úprav stránok pracovnej skupiny za {{PLURAL:$1|posledný $1 deň|posledné $1 dni|posledných $1 dní}}.",
+    "nedits": "$1 {{PLURAL:$1|úprava|úpravy|úprav}}"
+}

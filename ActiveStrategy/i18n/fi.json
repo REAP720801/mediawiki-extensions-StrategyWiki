@@ -1,0 +1,11 @@
+{
+    "@metadata": {
+        "authors": [
+            "Olli"
+        ]
+    },
+    "activestrategy": "Aktiivinen strategia",
+    "active-strategy-desc": "Näyttää muokkausten määrän strategisen suunnittelun sivuille",
+    "active-strategy-intro": "Muokkausten määrä tehtävälistan sivuille {{PLURAL:$1|viimeisimmän $1 päivän|viimeisimpien $1 päivän}} aikana.",
+    "nedits": "$1 {{PLURAL:$1|muokkaus|muokkausta}}"
+}

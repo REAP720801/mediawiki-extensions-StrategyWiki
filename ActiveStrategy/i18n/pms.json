@@ -1,0 +1,12 @@
+{
+    "@metadata": {
+        "authors": [
+            "Borichèt",
+            "Dragonòt"
+        ]
+    },
+    "activestrategy": "Strategìa ativa",
+    "active-strategy-desc": "A smon ël nùmer ëd modìfiche a le pàgine ëd pianificassion stratégica",
+    "active-strategy-intro": "Nùmer ëd modìfiche a le pàgine dl'echip ëd travaj ant {{PLURAL:$1|l'ùltim di|j'ùltim $1 di}}.",
+    "nedits": "$1 {{PLURAL:$1|modìfica|modìfiche}}"
+}

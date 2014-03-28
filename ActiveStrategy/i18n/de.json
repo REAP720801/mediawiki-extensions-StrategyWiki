@@ -1,0 +1,12 @@
+{
+    "@metadata": {
+        "authors": [
+            "Kghbln",
+            "The Evil IP address"
+        ]
+    },
+    "activestrategy": "Aktive Strategie",
+    "active-strategy-desc": "Zeigt die Anzahl der Bearbeitungen an strategischen Planungsseiten",
+    "active-strategy-intro": "Anzahl der Bearbeitungen auf den Seiten der Arbeitsgruppen während {{PLURAL:$1|des letzten Tages|der letzten $1 Tage}}.",
+    "nedits": "$1 {{PLURAL:$1|Bearbeitung|Bearbeitungen}}"
+}

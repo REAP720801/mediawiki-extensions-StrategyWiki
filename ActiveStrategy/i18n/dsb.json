@@ -1,0 +1,11 @@
+{
+    "@metadata": {
+        "authors": [
+            "Michawiki"
+        ]
+    },
+    "activestrategy": "Aktiwna strategija",
+    "active-strategy-desc": "Pokazujo licbu změnow na bokach strategiskego planowanja",
+    "active-strategy-intro": "Licba změnow na źěłowych kupkach za {{PLURAL:$1|zachadny $1 źeń|zachadnej $1 dnja|zachadne $1 dny|zachadnych $1 dnjow}}.",
+    "nedits": "$1 {{PLURAL:$1|změna|změnje|změny|změnow}}"
+}

@@ -1,0 +1,11 @@
+{
+    "@metadata": {
+        "authors": [
+            "Michawiki"
+        ]
+    },
+    "activestrategy": "Aktiwna strategija",
+    "active-strategy-desc": "Pokazuje ličbu změnow na stronach strategiskeho planowanja",
+    "active-strategy-intro": "Ličba změnow na stronach dźěłarničkow za {{PLURAL:$1|zańdźeny $1 dźeń|zańdźenej $1 dnjej|zańdźene $1 dny|zańdźenych $1 dnjow}}.",
+    "nedits": "$1 {{PLURAL:$1|změna|změnje|změny|změnow}}"
+}

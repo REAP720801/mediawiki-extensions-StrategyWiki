@@ -1,0 +1,11 @@
+{
+    "@metadata": {
+        "authors": [
+            "Minh Nguyen"
+        ]
+    },
+    "activestrategy": "Chiến lược hiện hành",
+    "active-strategy-desc": "Hiển thị số lần sửa đổi các trang quy hoạch chiến lược",
+    "active-strategy-intro": "Số lần sửa đổi các trang của lực lượng đặc nhiệm trong $1 ngày về trước.",
+    "nedits": "$1 sửa đổi"
+}

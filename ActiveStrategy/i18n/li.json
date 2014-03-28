@@ -1,0 +1,11 @@
+{
+    "@metadata": {
+        "authors": [
+            "Ooswesthoesbes"
+        ]
+    },
+    "activestrategy": "Actief strategie",
+    "active-strategy-desc": "Göf 't taal bewerkinge aan paazjes veur strategisch plenne weer",
+    "active-strategy-intro": "Aantal bewirkingen aan taskforcepagina's in de aafgeloupe {{PLURAL:$1|daag|$1 daag}}.",
+    "nedits": "$1 {{PLURAL:$1|bewèrking|bewèrkinge}}"
+}

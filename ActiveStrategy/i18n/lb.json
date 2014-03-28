@@ -1,0 +1,11 @@
+{
+    "@metadata": {
+        "authors": [
+            "Robby"
+        ]
+    },
+    "activestrategy": "Aktiv Strategie",
+    "active-strategy-desc": "Weist d'Zuel vun den Ännerungen op de Säite vun der strategischer Planung",
+    "active-strategy-intro": "Zuel vun den Ännerungen op Säite vum Aarbechtsgrupp {{PLURAL:$1|de leschten Dag|an de leschten $1 Deeg}}.",
+    "nedits": "$1 {{PLURAL:$1|Ännerung|Ännerungen}}"
+}

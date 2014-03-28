@@ -1,0 +1,11 @@
+{
+    "@metadata": {
+        "authors": [
+            "Toliño"
+        ]
+    },
+    "activestrategy": "Estratexia activa",
+    "active-strategy-desc": "Mostra o número de edicións nas páxinas da planificación estratéxica",
+    "active-strategy-intro": "Número de edicións das páxinas do grupo de traballo {{PLURAL:$1|no último día|nos últimos $1 días}}.",
+    "nedits": "$1 {{PLURAL:$1|edición|edicións}}"
+}

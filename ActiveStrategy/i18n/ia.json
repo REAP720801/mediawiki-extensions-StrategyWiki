@@ -1,0 +1,11 @@
+{
+    "@metadata": {
+        "authors": [
+            "McDutchie"
+        ]
+    },
+    "activestrategy": "Strategia active",
+    "active-strategy-desc": "Monstra le numero de modificationes a paginas de planification strategic",
+    "active-strategy-intro": "Numero de modificationes in paginas de gruppos de labor in le ultime {{PLURAL:$1|die|$1 dies}}.",
+    "nedits": "$1 {{PLURAL:$1|modification|modificationes}}"
+}

@@ -1,0 +1,11 @@
+{
+    "@metadata": {
+        "authors": [
+            "ChrisPtDe"
+        ]
+    },
+    "activestrategy": "Stratègia activa",
+    "active-strategy-desc": "Montre lo nombro de changements aportâs a les pâges de planificacion stratègica.",
+    "active-strategy-intro": "Nombro de changements de les pâges a la tropa de travâly pendent {{PLURAL:$1|lo jorn passâ|los $1 jorns passâs}}.",
+    "nedits": "$1 changement{{PLURAL:$1||s}}"
+}

@@ -1,0 +1,11 @@
+{
+    "@metadata": {
+        "authors": [
+            "Sp5uhe"
+        ]
+    },
+    "activestrategy": "Aktywna strategia",
+    "active-strategy-desc": "Pokazuje liczbę edycji stron planowania strategicznego",
+    "active-strategy-intro": "Liczba edycji stron realizacji zadań w czasie {{PLURAL:$1|ostatniej doby|ostatnich $1 dni}}.",
+    "nedits": "$1 {{PLURAL:$1|edycja|edycje|edycji}}"
+}

@@ -1,0 +1,12 @@
+{
+    "@metadata": {
+        "authors": [
+            "Michawiki",
+            "Yekrats"
+        ]
+    },
+    "activestrategy": "Aktiva strategio",
+    "active-strategy-desc": "Montras nombron de redaktoj al strategiaj planpaĝoj",
+    "active-strategy-intro": "Nombro de redaktoj al taskteam-paĝoj en la lasta {{PLURAL:$1|$1 tago|$1 tagoj}}.",
+    "nedits": "$1 {{PLURAL:$1|redakto|redaktoj}}"
+}

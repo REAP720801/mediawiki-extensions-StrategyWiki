@@ -1,0 +1,14 @@
+{
+    "@metadata": {
+        "authors": [
+            "Aotake",
+            "Fryed-peach",
+            "Shirayuki",
+            "青子守歌"
+        ]
+    },
+    "activestrategy": "活動中の戦略",
+    "active-strategy-desc": "戦略計画ページの編集回数を表示する",
+    "active-strategy-intro": "最近 {{PLURAL:$1|$1 日|$1 日間}}に特別チームのページに加えられた編集回数です。",
+    "nedits": "$1 {{PLURAL:$1|編集}}"
+}

@@ -13,6 +13,7 @@ $dir = __DIR__ . '/';
 
 $wgHooks['ParserFirstCallInit'][] = 'ActiveStrategyPF::setup';
 
+$wgMessagesDirs['ActiveStrategy'] = __DIR__ . '/i18n';
 $wgExtensionMessagesFiles['ActiveStrategy'] = $dir . 'ActiveStrategy.i18n.php';
 
 $wgAutoloadClasses['ActiveStrategy']  = $dir . 'ActiveStrategy_body.php';
