@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Pitort"
-        ]
-    },
-    "nedits": "$1 {{PLURAL:$1|modificació|modificacions}}"
+	"@metadata": {
+		"authors": [
+			"Pitort"
+		]
+	},
+	"nedits": "$1 {{PLURAL:$1|modificació|modificacions}}"
 }

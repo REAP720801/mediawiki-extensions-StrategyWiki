@@ -1,12 +1,12 @@
 {
-    "@metadata": {
-        "authors": [
-            "BRUTE",
-            "Dawid Deutschland",
-            "ITshnik"
-        ]
-    },
-    "activestrategy": "აქტიური სტრატეგია",
-    "active-strategy-desc": "აჩვენებს რედაქტირების რაოდენობას სტრატეგიული დაგეგმვის გვერდებზე",
-    "nedits": "$1 {{PLURAL:$1|რედაქტირება|რედაქტირება}}"
+	"@metadata": {
+		"authors": [
+			"BRUTE",
+			"Dawid Deutschland",
+			"ITshnik"
+		]
+	},
+	"activestrategy": "აქტიური სტრატეგია",
+	"active-strategy-desc": "აჩვენებს რედაქტირების რაოდენობას სტრატეგიული დაგეგმვის გვერდებზე",
+	"nedits": "$1 {{PLURAL:$1|რედაქტირება|რედაქტირება}}"
 }

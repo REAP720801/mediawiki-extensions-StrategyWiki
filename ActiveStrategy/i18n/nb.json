@@ -1,12 +1,12 @@
 {
-    "@metadata": {
-        "authors": [
-            "Laaknor",
-            "Nghtwlkr"
-        ]
-    },
-    "activestrategy": "Aktiv strategi",
-    "active-strategy-desc": "Viser antall redigeringer på arbeidsgruppesider",
-    "active-strategy-intro": "Antall redigeringer på arbeidsgruppesider {{PLURAL:$1|den siste $1 dag|de siste $1 dager}}.",
-    "nedits": "$1 {{PLURAL:$1|redigering|redigeringer}}"
+	"@metadata": {
+		"authors": [
+			"Laaknor",
+			"Nghtwlkr"
+		]
+	},
+	"activestrategy": "Aktiv strategi",
+	"active-strategy-desc": "Viser antall redigeringer på arbeidsgruppesider",
+	"active-strategy-intro": "Antall redigeringer på arbeidsgruppesider {{PLURAL:$1|den siste $1 dag|de siste $1 dager}}.",
+	"nedits": "$1 {{PLURAL:$1|redigering|redigeringer}}"
 }

@@ -1,9 +1,9 @@
 {
-    "@metadata": {
-        "authors": [
-            "Veeven"
-        ]
-    },
-    "activestrategy": "క్రియాశీల వ్యూహం",
-    "nedits": "$1 {{PLURAL:$1|మార్పు|మార్పులు}}"
+	"@metadata": {
+		"authors": [
+			"Veeven"
+		]
+	},
+	"activestrategy": "క్రియాశీల వ్యూహం",
+	"nedits": "$1 {{PLURAL:$1|మార్పు|మార్పులు}}"
 }

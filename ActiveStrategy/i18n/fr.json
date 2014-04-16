@@ -1,13 +1,13 @@
 {
-    "@metadata": {
-        "authors": [
-            "IAlex",
-            "Jean-Frédéric",
-            "Peter17"
-        ]
-    },
-    "activestrategy": "Stratégie active",
-    "active-strategy-desc": "Affiche le nombre de modifications apportées aux pages de planification stratégique",
-    "active-strategy-intro": "Nombre de modifications des pages du groupe de travail au cours {{PLURAL:$1|du dernier jour|des $1 derniers jours}}.",
-    "nedits": "$1 {{PLURAL:$1|modification|modifications}}"
+	"@metadata": {
+		"authors": [
+			"IAlex",
+			"Jean-Frédéric",
+			"Peter17"
+		]
+	},
+	"activestrategy": "Stratégie active",
+	"active-strategy-desc": "Affiche le nombre de modifications apportées aux pages de planification stratégique",
+	"active-strategy-intro": "Nombre de modifications des pages du groupe de travail au cours {{PLURAL:$1|du dernier jour|des $1 derniers jours}}.",
+	"nedits": "$1 {{PLURAL:$1|modification|modifications}}"
 }

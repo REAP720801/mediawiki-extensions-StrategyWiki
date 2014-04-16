@@ -1,11 +1,11 @@
 {
-    "@metadata": {
-        "authors": [
-            "Shirayuki",
-            "Umherirrender"
-        ]
-    },
-    "active-strategy-desc": "{{desc|name=Active Strategy|url=http://www.mediawiki.org/wiki/Extension:ActiveStrategy}}",
-    "active-strategy-intro": "Unused at this time. Parameters:\n* $1 - number of days",
-    "nedits": "Unused at this time. Parameters:\n* $1 - number of edits"
+	"@metadata": {
+		"authors": [
+			"Shirayuki",
+			"Umherirrender"
+		]
+	},
+	"active-strategy-desc": "{{desc|name=Active Strategy|url=http://www.mediawiki.org/wiki/Extension:ActiveStrategy}}",
+	"active-strategy-intro": "Unused at this time. Parameters:\n* $1 - number of days",
+	"nedits": "Unused at this time. Parameters:\n* $1 - number of edits"
 }

@@ -1,14 +1,14 @@
 {
-    "@metadata": {
-        "authors": [
-            "Huji",
-            "Ladsgroup",
-            "Sahim",
-            "Wayiran"
-        ]
-    },
-    "activestrategy": "راهبرد فعال",
-    "active-strategy-desc": "تعداد ویرایش‌های صفحه‌های برنامه‌ریزی راهبردی نشان می‌دهد.",
-    "active-strategy-intro": "تعداد ویرایش‌های صفحه‌های گروه ضربت در {{PLURAL:$1|$1 روز|$1 روز}} اخیر.",
-    "nedits": "$1 {{PLURAL:$1|ویرایش|ویرایش}}"
+	"@metadata": {
+		"authors": [
+			"Huji",
+			"Ladsgroup",
+			"Sahim",
+			"Wayiran"
+		]
+	},
+	"activestrategy": "راهبرد فعال",
+	"active-strategy-desc": "تعداد ویرایش‌های صفحه‌های برنامه‌ریزی راهبردی نشان می‌دهد.",
+	"active-strategy-intro": "تعداد ویرایش‌های صفحه‌های گروه ضربت در {{PLURAL:$1|$1 روز|$1 روز}} اخیر.",
+	"nedits": "$1 {{PLURAL:$1|ویرایش|ویرایش}}"
 }

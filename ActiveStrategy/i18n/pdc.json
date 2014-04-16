@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Xqt"
-        ]
-    },
-    "nedits": "$1 {{PLURAL:$1|Ennering|Enneringe}}"
+	"@metadata": {
+		"authors": [
+			"Xqt"
+		]
+	},
+	"nedits": "$1 {{PLURAL:$1|Ennering|Enneringe}}"
 }

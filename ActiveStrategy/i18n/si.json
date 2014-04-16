@@ -1,9 +1,9 @@
 {
-    "@metadata": {
-        "authors": [
-            "පසිඳු කාවින්ද"
-        ]
-    },
-    "activestrategy": "සක්‍රීය උපාය",
-    "nedits": "{{PLURAL:$1|සංස්කරණ|සංස්කරණ}} $1 ක්"
+	"@metadata": {
+		"authors": [
+			"පසිඳු කාවින්ද"
+		]
+	},
+	"activestrategy": "සක්‍රීය උපාය",
+	"nedits": "{{PLURAL:$1|සංස්කරණ|සංස්කරණ}} $1 ක්"
 }

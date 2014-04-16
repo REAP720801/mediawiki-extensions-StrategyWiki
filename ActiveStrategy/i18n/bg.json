@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "DCLXVI"
-        ]
-    },
-    "nedits": "$1 {{PLURAL:$1|редакция|редакции}}"
+	"@metadata": {
+		"authors": [
+			"DCLXVI"
+		]
+	},
+	"nedits": "$1 {{PLURAL:$1|редакция|редакции}}"
 }

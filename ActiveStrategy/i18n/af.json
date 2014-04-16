@@ -1,11 +1,11 @@
 {
-    "@metadata": {
-        "authors": [
-            "Naudefj",
-            "පසිඳු කාවින්ද"
-        ]
-    },
-    "activestrategy": "Aktiewe strategie",
-    "active-strategy-desc": "Word die aantal wysigings aan strategiese beplanning bladsye",
-    "nedits": "$1 {{PLURAL:$1|wysiging|wysigings}}"
+	"@metadata": {
+		"authors": [
+			"Naudefj",
+			"පසිඳු කාවින්ද"
+		]
+	},
+	"activestrategy": "Aktiewe strategie",
+	"active-strategy-desc": "Word die aantal wysigings aan strategiese beplanning bladsye",
+	"nedits": "$1 {{PLURAL:$1|wysiging|wysigings}}"
 }

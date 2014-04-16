@@ -1,10 +1,10 @@
 {
-    "@metadata": {
-        "authors": [
-            "Hanberke"
-        ]
-    },
-    "activestrategy": "Işjeň strategiýa",
-    "active-strategy-desc": "Strategik planlaýyş sahypalaryndaky özgerdişleriň sanyny görkezýär",
-    "nedits": "$1 {{PLURAL:$1|özgerdiş|özgerdiş}}"
+	"@metadata": {
+		"authors": [
+			"Hanberke"
+		]
+	},
+	"activestrategy": "Işjeň strategiýa",
+	"active-strategy-desc": "Strategik planlaýyş sahypalaryndaky özgerdişleriň sanyny görkezýär",
+	"nedits": "$1 {{PLURAL:$1|özgerdiş|özgerdiş}}"
 }

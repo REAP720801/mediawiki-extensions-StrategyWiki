@@ -1,11 +1,11 @@
 {
-    "@metadata": {
-        "authors": [
-            "Siebrand"
-        ]
-    },
-    "activestrategy": "Actieve strategie",
-    "active-strategy-desc": "Geeft het aantal bewerkingen aan pagina's voor strategische planning weer",
-    "active-strategy-intro": "Aantal bewerkingen aan taskforcepagina's in de afgelopen {{PLURAL:$1|dag|$1 dagen}}.",
-    "nedits": "$1 {{PLURAL:$1|bewerking|bewerkingen}}"
+	"@metadata": {
+		"authors": [
+			"Siebrand"
+		]
+	},
+	"activestrategy": "Actieve strategie",
+	"active-strategy-desc": "Geeft het aantal bewerkingen aan pagina's voor strategische planning weer",
+	"active-strategy-intro": "Aantal bewerkingen aan taskforcepagina's in de afgelopen {{PLURAL:$1|dag|$1 dagen}}.",
+	"nedits": "$1 {{PLURAL:$1|bewerking|bewerkingen}}"
 }

@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Ahmed-Najib-Biabani-Ibrahimkhel"
-        ]
-    },
-    "nedits": "$1 {{PLURAL:$1|سمون|سمونونه}}"
+	"@metadata": {
+		"authors": [
+			"Ahmed-Najib-Biabani-Ibrahimkhel"
+		]
+	},
+	"nedits": "$1 {{PLURAL:$1|سمون|سمونونه}}"
 }

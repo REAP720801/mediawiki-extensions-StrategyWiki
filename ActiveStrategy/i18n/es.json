@@ -1,13 +1,13 @@
 {
-    "@metadata": {
-        "authors": [
-            "Ascánder",
-            "Crazymadlover",
-            "Diego Grez"
-        ]
-    },
-    "activestrategy": "Estrategia activa",
-    "active-strategy-desc": "Muestra el número de ediciones a las páginas de planeamiento estratégico",
-    "active-strategy-intro": "Número de ediciones a las páginas del grupo de trabajo en los últimos {{PLURAL:$1|$1 día|$1 días}}.",
-    "nedits": "$1 {{PLURAL:$1|edición|ediciones}}"
+	"@metadata": {
+		"authors": [
+			"Ascánder",
+			"Crazymadlover",
+			"Diego Grez"
+		]
+	},
+	"activestrategy": "Estrategia activa",
+	"active-strategy-desc": "Muestra el número de ediciones a las páginas de planeamiento estratégico",
+	"active-strategy-intro": "Número de ediciones a las páginas del grupo de trabajo en los últimos {{PLURAL:$1|$1 día|$1 días}}.",
+	"nedits": "$1 {{PLURAL:$1|edición|ediciones}}"
 }

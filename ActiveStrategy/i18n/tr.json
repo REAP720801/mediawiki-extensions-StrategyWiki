@@ -1,10 +1,10 @@
 {
-    "@metadata": {
-        "authors": [
-            "Joseph",
-            "Srhat"
-        ]
-    },
-    "activestrategy": "Etkin strateji",
-    "nedits": "$1 {{PLURAL:$1|değişiklik|değişiklik}}"
+	"@metadata": {
+		"authors": [
+			"Joseph",
+			"Srhat"
+		]
+	},
+	"activestrategy": "Etkin strateji",
+	"nedits": "$1 {{PLURAL:$1|değişiklik|değişiklik}}"
 }

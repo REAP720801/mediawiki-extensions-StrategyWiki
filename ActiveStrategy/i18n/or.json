@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Ansumang"
-        ]
-    },
-    "nedits": "$1 {{PLURAL:$1|ସମ୍ପାଦନ|ସମ୍ପାଦନ}}"
+	"@metadata": {
+		"authors": [
+			"Ansumang"
+		]
+	},
+	"nedits": "$1 {{PLURAL:$1|ସମ୍ପାଦନ|ସମ୍ପାଦନ}}"
 }

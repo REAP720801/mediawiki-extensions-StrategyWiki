@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Malafaya"
-        ]
-    },
-    "nedits": "$1 {{PLURAL:$1|redakto|redakti}}"
+	"@metadata": {
+		"authors": [
+			"Malafaya"
+		]
+	},
+	"nedits": "$1 {{PLURAL:$1|redakto|redakti}}"
 }
