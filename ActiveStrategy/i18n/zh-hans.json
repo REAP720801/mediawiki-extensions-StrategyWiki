@@ -1,11 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Jding2010"
+			"Jding2010",
+			"Mywood"
 		]
 	},
 	"activestrategy": "已启动的战略",
-	"active-strategy-desc": "显示战略计划页面的编辑次数",
-	"active-strategy-intro": "此页面编辑数 (在过去{{PLURAL:$1|$1日|$1日}})",
+	"active-strategy-desc": "显示战略规划页面的编辑数",
+	"active-strategy-intro": "过去{{PLURAL:$1|$1天}}工作队页面的编辑数",
 	"nedits": "$1次{{PLURAL:$1|编辑|编辑}}"
 }
